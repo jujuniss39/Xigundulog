@@ -4,7 +4,7 @@ local Window = Rayfield:CreateWindow({
     Name = "GundulOG",
     LoadingTitle = "Mancing Teross...Dapet Secret kaga..",
     LoadingSubtitle = "Sabar ya...",
-    ConfigurationSaving = {Enabled=true, FolderName="XigundulOG", FileName="Settings"},
+    ConfigurationSaving = {Enabled=true, FolderName="UltimateFishingHubGitHub", FileName="Settings"},
     KeySystem=false
 })
 
